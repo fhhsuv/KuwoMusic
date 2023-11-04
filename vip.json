@@ -10,7 +10,7 @@
             "location": 2,
             "maxVersion": "",
             "minVersion": "10.5.2.0",
-            "name": "免费听歌",
+            "name": "免费听歌(suv)",
             "pic": "https://kwimg2.kuwo.cn/star/upload/43/79/1685697520957_.png",
             "platForm": "android",
             "url": "https://h5app.kuwo.cn/m/modelDialog/newFreeRuleDescription.html?FULLHASARROW=1"
@@ -21,18 +21,7 @@
             "location": 3,
             "maxVersion": "",
             "minVersion": "10.5.1",
-            "name": "免费听书",
-            "pic": "https://kwimg3.kuwo.cn/star/upload/8/75/1684391275817_.png",
-            "platForm": "android",
-            "url": "https://h5app.kuwo.cn/m/audiomodeldialog/index.html?FULLHASARROW=1&hideBottomMargin=1&MBOX_WEBCLOSE=1&transparentTitleView=1"
-        },
-        {
-            "examineShow": 1,
-            "id": 3,
-            "location": 4,
-            "maxVersion": "",
-            "minVersion": "10.5.1",
-            "name": "免费听书2",
+            "name": "免费听书(suv)",
             "pic": "https://kwimg3.kuwo.cn/star/upload/8/75/1684391275817_.png",
             "platForm": "android",
             "url": "https://h5app.kuwo.cn/m/audiomodeldialog/index.html?FULLHASARROW=1&hideBottomMargin=1&MBOX_WEBCLOSE=1&transparentTitleView=1"
