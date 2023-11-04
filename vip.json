@@ -25,6 +25,17 @@
             "pic": "https://kwimg3.kuwo.cn/star/upload/8/75/1684391275817_.png",
             "platForm": "android",
             "url": "https://h5app.kuwo.cn/m/audiomodeldialog/index.html?FULLHASARROW=1&hideBottomMargin=1&MBOX_WEBCLOSE=1&transparentTitleView=1"
+        },
+        {
+            "examineShow": 1,
+            "id": 3,
+            "location": 3,
+            "maxVersion": "",
+            "minVersion": "10.5.1",
+            "name": "免费听书2",
+            "pic": "https://kwimg3.kuwo.cn/star/upload/8/75/1684391275817_.png",
+            "platForm": "android",
+            "url": "https://h5app.kuwo.cn/m/audiomodeldialog/index.html?FULLHASARROW=1&hideBottomMargin=1&MBOX_WEBCLOSE=1&transparentTitleView=1"
         }
     ],
     "profileId": "site",
